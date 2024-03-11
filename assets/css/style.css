@@ -1,0 +1,11 @@
+h1 {font-family:ariel,sans-serif; font-size:20px; font-weight:bold}
+td {font-family:ariel,sans-serif; font-size:21px}
+th {font-family:ariel,sans-serif; font-size:21px}
+input {font-family:ariel,sans-serif; font-size:11px; font-weight:bold; border:0; width:200px}
+textarea {font-family:ariel,sans-serif; font-size:11px; border:0; background:#CCCCCC}
+.b {background:#000000; color:#FF9900; font-weight:bold}
+.o {background:#FF9900; color:#000000; font-weight:bold}
+.n {width:35px}
+.bn {width:35px; background:#000000; color:#FF9900}
+.on {width:35px; background:#FF9900; color:#000000}
+.bar {height:1em}
